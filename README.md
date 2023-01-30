@@ -1,4 +1,4 @@
-# Client1 VM
+# Client1 Virtual Machine
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oatmello/Markdowns/main/ADimages/Client1.png" />
